@@ -1,0 +1,35 @@
+	ul {
+	    background-color: tomato;
+	    list-style-type: none;
+	    margin: 0;
+	    padding: 0;
+	    overflow: hidden;
+	}
+	
+	li {
+	    float: left;
+	}
+	
+	li a {
+	    display: block;
+	    color: white;
+	    padding: 18px 12px;
+	    text-decoration: none;
+	}
+	
+	li a:hover {
+	    background-color: #111;
+	}
+	
+	.li {
+	    float: right;
+	}
+	
+	.active {
+	    background-color: green;
+	}
+	
+	body {
+	      
+	    color: #111;
+	}
